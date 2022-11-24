@@ -1,0 +1,3 @@
+## Motor preferido para usar! 😎😎
+
+#### El motor de plantillas que mas facil me resulto de usar fue el de EJS, ya que al haber realizado otros cursos de JS, desarrollo web y React, me resulto mas facil realizar el codigo. En cuanto los otros dos motores, el PUG no me gusto tanto ya que es bastante distinto a todo lo que he visto. Y en cuanto al HB, me resulto interesante aunque al tener que setear el engine no me parecio lo mas optimo.
